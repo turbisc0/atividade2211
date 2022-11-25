@@ -32,13 +32,7 @@ h4{
 .secondary-color {
     color: #616161;
 }
-.btn{
-    height: 2.5em;
-}
 
-.bi{
-    padding-left: 0.5em;
-}
 #cart {
     border-bottom: 1px solid black;
 }
@@ -96,6 +90,10 @@ h5 {
 #mini-banners .card {
     margin-top: 2em;
     padding: 2em 0.3em;
+}
+.card-body img{
+    width: auto;
+    height: 15em;
 }
 .card-img{
     object-fit: cover;
