@@ -95,7 +95,7 @@ h5 {
     width: auto;
     height: 15em;
 }
-.card-img{
+.img-fluid{
     object-fit: cover;
 }
 
